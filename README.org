@@ -1,0 +1,10 @@
+* trees
+
+A library for binary trees written in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/froydnj/trees.git   |
+| commit  | 7b06048  |
+| systems | trees |
+|---------+-------------------------------------------|
+
